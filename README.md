@@ -1,4 +1,4 @@
-# R Data Analysis Portfolio
+# R Data Visualization with ggplot2
 
 Reproducible data analysis projects in R, covering data visualization.
 
